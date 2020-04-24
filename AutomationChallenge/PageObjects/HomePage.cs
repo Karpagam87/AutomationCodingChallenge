@@ -31,6 +31,10 @@ namespace AutomationChallenge.PageObjects
 
         public IWebElement ReduceRoomsButton => _driver.FindElement(By.XPath("//button[@aria-label='Decrease number of Rooms']"));
 
+        public IWebElement CookiesButton => _driver.FindElement(By.XPath("//button[@data-track-event='m_cookie_warning_closed']"));
+
+        public IWebElement CookieWarningDiv => _driver.FindElement(By.Id("cookie_warning"));
+
         public IWebElement GetDestinationLink(string destination)
         {
             return _driver.FindElement(By.XPath("//span[text()='" + destination + "']"));

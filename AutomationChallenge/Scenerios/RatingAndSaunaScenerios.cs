@@ -65,8 +65,9 @@ namespace AutomationChallenge
 
         private void SearchCriteriaInHome(string search, string destination, int adults, int rooms)
         {
+            _home.ClickCookiesButtonIfOpen();
             _home.EnterDestination(search);
-            _home.SelectDestination(destination);
+            _home.SelectDestination(destination);            
             _home.SelectCalendarDates(_fromData, _toDate, 3);
             _home.ClickGuestDetails();
             _home.SelectAdultsCount(adults);

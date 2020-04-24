@@ -124,6 +124,17 @@ namespace AutomationChallenge.Pages
         {
             GuestSpan.Click();
         }
+
+        /// <summary>
+        /// Clicks the cookies accept button
+        /// </summary>
+        public void ClickCookiesButtonIfOpen()
+        {
+            if (CookieWarningDiv.GetCssValue("display") == "block")
+            {
+                CookiesButton.Click();
+            }
+        }
     }
 
 }
