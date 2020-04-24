@@ -9,6 +9,10 @@ namespace AutomationChallenge.Pages
     /// </summary>
     public class Home: HomePage
     {
+        /// <summary>
+        /// Constructor for <see cref="HomePage"/>
+        /// </summary>
+        /// <param name="driver">webdriver</param>
         public Home(IWebDriver driver) : base(driver)
         {
         }

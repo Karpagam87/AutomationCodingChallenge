@@ -4612,11 +4612,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinij\\source\\repos\\NewHotelBooking\\AutomationChallenge\\AutomationChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\vinij\\source\\repos\\AutomationCodingChallenge\\AutomationChallenge\\AutomationChallenge.csproj",
       "projectName": "AutomationChallenge",
-      "projectPath": "C:\\Users\\vinij\\source\\repos\\NewHotelBooking\\AutomationChallenge\\AutomationChallenge.csproj",
+      "projectPath": "C:\\Users\\vinij\\source\\repos\\AutomationCodingChallenge\\AutomationChallenge\\AutomationChallenge.csproj",
       "packagesPath": "C:\\Users\\vinij\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinij\\source\\repos\\NewHotelBooking\\AutomationChallenge\\obj\\",
+      "outputPath": "C:\\Users\\vinij\\source\\repos\\AutomationCodingChallenge\\AutomationChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinij\\AppData\\Roaming\\NuGet\\NuGet.Config",

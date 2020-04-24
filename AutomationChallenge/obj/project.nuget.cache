@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZjZcXsQ1rTEiIKxbri/mOzyKZXy4M9xFVaOmK2nbQPaHLLLn0s4SAOHeKNrc++jBJk6+mwqMAXZBDPF5CaONg==",
+  "dgSpecHash": "L2FUZeMPZy64vvPmc9azg9Q3eX0BATqvKmMliH+u3u3cf58aoDyou4xMCpAcw2S4MSZu20zD/xmYoHvPQtUcKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinij\\source\\repos\\NewHotelBooking\\AutomationChallenge\\AutomationChallenge.csproj",
+  "projectFilePath": "C:\\Users\\vinij\\source\\repos\\AutomationCodingChallenge\\AutomationChallenge\\AutomationChallenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinij\\.nuget\\packages\\microsoft.codecoverage\\16.6.0\\microsoft.codecoverage.16.6.0.nupkg.sha512",
     "C:\\Users\\vinij\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
